@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="view_partner_form_inherit_firstname" model="ir.ui.view">
+        <field name="name">res.partner.form.inherit.firstname</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml">
+            <field name="name" position="after" invisible="is_company">
+                <field name="firstname" placeholder="e.g. Brandon"/>
+            </field>
+        </field>
+    </record>
+
+</odoo>
