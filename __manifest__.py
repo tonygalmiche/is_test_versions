@@ -16,6 +16,6 @@ InfoSaône - Module Odoo 16 pour ajouter le prénom dans le contact
     ],
     'installable': True,
     'application': True,
-    'author': 'InfoSaône',
+    'author': 'Tony Galmiche / InfoSaône',
     'license': 'LGPL-3',
 }
