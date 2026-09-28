@@ -1,6 +1,6 @@
 # is_test_versions
 
-Module Odoo 19 développé par [InfoSaône](http://www.infosaone.com).
+Module Odoo 20 développé par [InfoSaône](http://www.infosaone.com).
 
 ## Description
 
