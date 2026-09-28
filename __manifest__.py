@@ -1,10 +1,10 @@
 {
-    'name': 'InfoSaône - Module Odoo 16 pour ajouter le prénom dans le contact',
-    'version': '16.0.0.0.1',
+    'name': 'InfoSaône - Module Odoo 14 pour ajouter le prénom dans le contact',
+    'version': '14.0.0.0.1',
     'category': 'InfoSaône',
     'summary': 'Ajouter le prénom dans le contact',
     'description': """
-InfoSaône - Module Odoo 16 pour ajouter le prénom dans le contact
+InfoSaône - Module Odoo 14 pour ajouter le prénom dans le contact
 ===================================================
 """,
     'website': 'http://www.infosaone.com',

@@ -1,6 +1,6 @@
 # is_test_versions
 
-Module Odoo 16 développé par [InfoSaône](http://www.infosaone.com).
+Module Odoo 14 développé par [InfoSaône](http://www.infosaone.com).
 
 ## Description
 
